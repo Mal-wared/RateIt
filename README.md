@@ -1,0 +1,2 @@
+# RateIt
+Personalized Rating App
